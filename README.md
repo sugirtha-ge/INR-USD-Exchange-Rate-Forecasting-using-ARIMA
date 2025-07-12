@@ -16,5 +16,5 @@ Chosen model: ARIMA(1,1,1)
 Forecasting: Predicted next 30 business days
 Visualised historical vs forecasted values
 
-5. Visual: 
+5. Visual: https://github.com/sugirtha-ge/INR-USD-Exchange-Rate-Forecasting-using-ARIMA/blob/main/inr_usd_forecast.png
 
